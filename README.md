@@ -1,1 +1,3 @@
-# Trustless_Whitepapers
+# Trustless Whitepapers
+
+Whitepapers for the Trustless protocols. 
